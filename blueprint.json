@@ -1,0 +1,10 @@
+{
+	"identifier": "iam-role",
+	"about": {
+		"title": "IAM Role",
+		"explanation": "An elementary blueprint for defining an AWS Identity & Access Management Role"
+	},
+	"compute_service": {
+		"default": {"identifier": "iam_role"}
+	}
+}

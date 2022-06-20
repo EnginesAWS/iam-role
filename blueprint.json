@@ -6,5 +6,13 @@
 	},
 	"compute_service": {
 		"default": {"identifier": "iam_role"}
-	}
+	},
+	"binding_target": {
+		"configuration": {
+		"action" : "",
+        "Effect" : "",
+        "Sid"    : "",
+         "Service" : ""
+		}
+		}
 }
